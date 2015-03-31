@@ -1,0 +1,4 @@
+name: SpectatorWarp
+main: subside.plugins.spectatorwarp.SpectatorWarp
+version: 1.0
+author: SubSide
